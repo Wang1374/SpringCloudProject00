@@ -17,7 +17,8 @@ import lombok.Data;
  */
 @Data
 @TableName("sms_coupon")
-public class CouponEntity implements Serializable {
+public class
+CouponEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	/**
